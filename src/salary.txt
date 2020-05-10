@@ -1,0 +1,6 @@
+2019 Employee Lee 2000
+2020 Employee Park 3000
+2019 Salesman Son 4000 150000
+2020 Salesman Choi 3000 100000
+2019 Executive Kim 5000 55
+2020 Executive Han 6000 80
