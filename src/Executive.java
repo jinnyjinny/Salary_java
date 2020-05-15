@@ -1,8 +1,8 @@
 public class Executive extends Employee {
     public int stock;
 
-    public Executive(String name, int m_salary, int stock) {
-        super(name, m_salary);
+    public Executive(int id, int year, String name, String position, int m_salary, int stock) {
+        super(id, year, name, position, m_salary);
         this.stock = stock;
     }
 
@@ -22,7 +22,9 @@ public class Executive extends Employee {
 
     public String toString() {
 
-        return "<<Executive>> \n"
+        return "<<" + position + ">>" + "\n"
+                + "Id: " + id + "\n"
+                + "Year: " + year + "\n"
                 + "Name: " + name + "\n"
                 + "Monthly Salary: " + m_salary + "\n"
                 + "Stock Price: " + stock + "\n"
