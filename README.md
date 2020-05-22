@@ -13,7 +13,7 @@
 
 intellij를 사용하여 직원들의 급여를 계산하고 현재 시간을 보여주는 객체 지향 프로젝트입니다. 
 
-<img width="540" src="https://user-images.githubusercontent.com/49601361/82674758-c13c7a80-9c7e-11ea-9460-b2393dbc02c1.png"><br>
+<img width="430" src="https://user-images.githubusercontent.com/49601361/82674758-c13c7a80-9c7e-11ea-9460-b2393dbc02c1.png"><br>
 
 ### 2. 주요 기능
 
@@ -104,7 +104,7 @@ JDBC와 데이터베이스에 연동하였습니다.
 JDBC (Java DataBase Connectivity) 자바에서 DB와 관련된 작업을 처리할 수 있도록 도와주는 역할을 하는 API입니다. 각각의 DBMS는 자신의 드라이버에 의해 동작하고 JDBC는 데이터베이스에 연결하기 위한(프로그래머에게) API를 제공하는 기능을 합니다. MySQL같은 경우에는 위에서 다운받은 커넥터로 자신의 드라이버를 공식적으로 제공하고 JDBC는 드라이버가 등록되면 미리 정의된 메소드 호출만으로도 데이터베이스에 접근 할 수 있습니다.
 
 ## 실행 결과
-<img width="540" src="https://user-images.githubusercontent.com/49601361/82674644-96eabd00-9c7e-11ea-8b49-a5f443e66147.png"><br>
+<img width="430" src="https://user-images.githubusercontent.com/49601361/82674644-96eabd00-9c7e-11ea-8b49-a5f443e66147.png"><br>
 
 
 
